@@ -46,4 +46,11 @@
   color: white;
   font-weight: bold;
   font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+  border-style: none;
+  transition: 0.5s;
+}
+.button button:hover {
+  background-color: blueviolet;
+  transition: 0.5s;
 }

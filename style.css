@@ -42,6 +42,7 @@
 .button button {
   padding: 10px 100px;
   border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   background-color: #8d47ff;
   color: white;
   font-weight: bold;
